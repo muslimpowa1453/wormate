@@ -1253,7 +1253,6 @@ function f3(_0x75c76a) {
             case 'fr':
                 _0xaeefae = 'fr_FR';
                 break;
-                Ø¡ ØºØºØºØº;
             case 'ru':
                 _0xaeefae = 'ru_RU';
                 break;
