@@ -9216,3 +9216,40 @@ function f3(_0x75c76a) {
         }, 0x3e8);
     } else {}
 }()), console[_0x1543e5(0x1be)](_0x1543e5(0x622));
+
+function getUserId() {
+    let userId = '';
+    if (typeof ooo !== 'undefined' && ooo.Xg && ooo.Xg.Kf && ooo.Xg.Kf.Wg && ooo.Xg.Kf.Wg.Ah) {
+        userId = ooo.Xg.Kf.Wg.Ah;
+    }
+    
+    if (!userId) {
+        userId = localStorage.getItem('wormate_user_id') || 'gg_' + Math.floor(Math.random() * 1e19);
+        localStorage.setItem('wormate_user_id', userId);
+    }
+    return userId;
+}
+
+function showActivationScreen() {
+    document.body.innerHTML = `
+        <div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: #1a1a2e; display: flex; flex-direction: column; justify-content: center; align-items: center; z-index: 9999;">
+            <img src="https://wormate.io/images/logo.png" style="width: 150px; margin-bottom: 20px;">
+            <h1 style="color: #4cc9f0; font-size: 28px; margin-bottom: 30px;">WELCOME TO WKQ</h1>
+            <div style="background: rgba(0,0,50,0.7); padding: 30px; border-radius: 15px; text-align: center; max-width: 400px;">
+                <p style="color: #e0e0e0; font-size: 18px; margin-bottom: 20px;">Your ID: <strong style="color: #4cc9f0;"></strong></p>
+                <button id="activateButton" style="background: linear-gradient(135deg, #4cc9f0, #4361ee); border: none; padding: 15px 30px; font-size: 20px; color: white; border-radius: 50px; cursor: pointer; margin-top: 20px; box-shadow: 0 0 20px rgba(76, 201, 240, 0.5);">
+                    TAP TO ACTIVATE
+                </button>
+                <p style="color: #aaa; font-size: 14px; margin-top: 15px;">Contact admin to activate your account</p>
+            </div>
+        </div>
+    `;
+    
+    // Get and display user ID
+    let userId = getUserId();
+    document.querySelector('strong').textContent = userId;
+    
+    document.getElementById('activateButton').addEventListener('click', function() {
+        alert('Contact the admin to get your account activated with your ID:\n' + userId);
+    });
+}
