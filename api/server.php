@@ -3017,7 +3017,7 @@
         },
         {
             "id": 44,
-            "name": "Muslim 👑 01",
+            "name": "Musli 👑 01",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:32053\/wormy",
             "status": 1,
