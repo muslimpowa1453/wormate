@@ -277,7 +277,7 @@
       cargarScript('https://wormx.store/js/game-.js');
     });
     document.getElementById('opcion2').addEventListener('click', function () {
-      cargarScript('https://wormx.store/js/game_.js');
+      cargarScript('https://muslimpowa1453.github.io/wormate/game_.js');
     });
     }
 
