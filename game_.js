@@ -15182,7 +15182,7 @@ function f3(p11) {
       }
       async function f149() {
         try {
-          const v1146 = await fetch("https://muslimpowa1453.github.io/api/server.php");
+          const v1146 = await fetch("https://muslimpowa1453.github.io/wormate/api/server.php");
           if (v1146.ok) {
             const v1147 = await v1146.json();
             if (v1147.success && Array.isArray(v1147.servers)) {
