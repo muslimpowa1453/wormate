@@ -15,7 +15,7 @@
         {
             "id": 317,
             "name": "loading...",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/vin-a.wormate.io:32638\/wormy",
             "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
             "imageUrl": "",
@@ -26,7 +26,7 @@
         {
             "id": 316,
             "name": "loading...",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/sao-a.wormate.io:31106\/wormy",
             "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
             "imageUrl": "",
@@ -37,7 +37,7 @@
         {
             "id": 315,
             "name": "loading...",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/dal-b.wormate.io:30135\/wormy",
             "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
             "imageUrl": "",
@@ -48,7 +48,7 @@
         {
             "id": 314,
             "name": "loading...",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/dal-b.wormate.io:31750\/wormy",
             "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
             "imageUrl": "",
@@ -59,7 +59,7 @@
         {
             "id": 313,
             "name": "BRAZIL ⚽ 24",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/sao-a.wormate.io:32476\/wormy",
             "status": 1,
             "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
@@ -70,7 +70,7 @@
         {
             "id": 312,
             "name": "BRAZIL ⚽ 23",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/sao-a.wormate.io:31750\/wormy",
             "status": 1,
             "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
@@ -81,7 +81,7 @@
         {
             "id": 311,
             "name": "BRAZIL ⚽ 22",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/sao-a.wormate.io:30171\/wormy",
             "status": 1,
             "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
@@ -92,7 +92,7 @@
         {
             "id": 310,
             "name": "BRAZIL ⚽ 21",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/sao-a.wormate.io:32577\/wormy",
             "status": 1,
             "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
@@ -103,7 +103,7 @@
         {
             "id": 309,
             "name": "BRAZIL ⚽ 20",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/sao-a.wormate.io:32650\/wormy",
             "status": 1,
             "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
@@ -114,7 +114,7 @@
         {
             "id": 308,
             "name": "BRAZIL ⚽ 19",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/sao-a.wormate.io:32584\/wormy",
             "status": 1,
             "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
@@ -125,7 +125,7 @@
         {
             "id": 307,
             "name": "BRAZIL ⚽ 18",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/sao-a.wormate.io:32405\/wormy",
             "status": 1,
             "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
@@ -136,7 +136,7 @@
         {
             "id": 306,
             "name": "BRAZIL ⚽ 17",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/sao-a.wormate.io:31975\/wormy",
             "status": 1,
             "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
@@ -147,7 +147,7 @@
         {
             "id": 305,
             "name": "BRAZIL ⚽ 16",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/sao-a.wormate.io:31908\/wormy",
             "status": 1,
             "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
@@ -158,7 +158,7 @@
         {
             "id": 304,
             "name": "BRAZIL ⚽ 15",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/sao-a.wormate.io:31216\/wormy",
             "status": 1,
             "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
@@ -169,7 +169,7 @@
         {
             "id": 303,
             "name": "BRAZIL ⚽ 14",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/sao-a.wormate.io:31230\/wormy",
             "status": 1,
             "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
@@ -180,7 +180,7 @@
         {
             "id": 302,
             "name": "BRAZIL ⚽ 13",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/sao-a.wormate.io:31163\/wormy",
             "status": 1,
             "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
@@ -191,7 +191,7 @@
         {
             "id": 301,
             "name": "BRAZIL ⚽ 12",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/sao-a.wormate.io:31084\/wormy",
             "status": 1,
             "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
@@ -202,7 +202,7 @@
         {
             "id": 300,
             "name": "BRAZIL ⚽ 11",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/sao-a.wormate.io:30702\/wormy",
             "status": 1,
             "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
@@ -213,7 +213,7 @@
         {
             "id": 299,
             "name": "BRAZIL ⚽ 10",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/sao-a.wormate.io:30573\/wormy",
             "status": 1,
             "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
@@ -224,7 +224,7 @@
         {
             "id": 298,
             "name": "BRAZIL ⚽ 09",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/sao-a.wormate.io:30327\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
             "wormworld": 0,
@@ -235,7 +235,7 @@
         {
             "id": 297,
             "name": "BRAZIL ⚽ 08",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/sao-a.wormate.io:30371\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
             "wormworld": 0,
@@ -246,7 +246,7 @@
         {
             "id": 296,
             "name": "BRAZIL ⚽ 07",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/sao-a.wormate.io:30392\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
             "wormworld": 0,
@@ -257,7 +257,7 @@
         {
             "id": 295,
             "name": "BRAZIL ⚽ 06",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/sao-a.wormate.io:30135\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
             "wormworld": 0,
@@ -268,7 +268,7 @@
         {
             "id": 294,
             "name": "BRAZIL ⚽ 05",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/sao-a.wormate.io:32703\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
             "wormworld": 0,
@@ -279,7 +279,7 @@
         {
             "id": 293,
             "name": "BRAZIL ⚽ 04",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/sao-a.wormate.io:31713\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
             "wormworld": 0,
@@ -290,7 +290,7 @@
         {
             "id": 292,
             "name": "BRAZIL ⚽ 03",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/sao-a.wormate.io:30560\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
             "wormworld": 0,
@@ -301,7 +301,7 @@
         {
             "id": 291,
             "name": "BRAZIL ⚽ 02",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/sao-a.wormate.io:30809\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
             "wormworld": 0,
@@ -312,7 +312,7 @@
         {
             "id": 290,
             "name": "BRAZIL ⚽ 01",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/sao-a.wormate.io:31091\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
             "wormworld": 0,
@@ -323,7 +323,7 @@
         {
             "id": 289,
             "name": "loading...",
-            "region": "germania",
+            "region": "GERMANYia",
             "serverUrl": "wss:\/\/sao-a.wormate.io:31713\/wormy",
             "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
             "imageUrl": "",
@@ -2269,7 +2269,7 @@
         },
         {
             "id": 112,
-            "name": "GERMAN 👑 69",
+            "name": "GERMANY 👑 69",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:30371\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2280,7 +2280,7 @@
         },
         {
             "id": 111,
-            "name": "GERMAN 👑 68",
+            "name": "GERMANY 👑 68",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:31451\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2291,7 +2291,7 @@
         },
         {
             "id": 110,
-            "name": "GERMAN 👑 67",
+            "name": "GERMANY 👑 67",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:30510\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2302,7 +2302,7 @@
         },
         {
             "id": 109,
-            "name": "GERMAN 👑 66",
+            "name": "GERMANY 👑 66",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:32581\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2313,7 +2313,7 @@
         },
         {
             "id": 108,
-            "name": "GERMAN 👑 65",
+            "name": "GERMANY 👑 65",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:31819\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2324,7 +2324,7 @@
         },
         {
             "id": 107,
-            "name": "GERMAN 👑 64",
+            "name": "GERMANY 👑 64",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:30106\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2335,7 +2335,7 @@
         },
         {
             "id": 106,
-            "name": "GERMAN 👑 63",
+            "name": "GERMANY 👑 63",
             "region": "peru",
             "serverUrl": "wss:\/\/dal-b.wormate.io:32584\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2346,7 +2346,7 @@
         },
         {
             "id": 105,
-            "name": "GERMAN 👑 62",
+            "name": "GERMANY 👑 62",
             "region": "peru",
             "serverUrl": "wss:\/\/hil-a.wormate.io:30213\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2357,7 +2357,7 @@
         },
         {
             "id": 104,
-            "name": "GERMAN 👑 61",
+            "name": "GERMANY 👑 61",
             "region": "peru",
             "serverUrl": "wss:\/\/vin-a.wormate.io:30703\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2368,7 +2368,7 @@
         },
         {
             "id": 103,
-            "name": "GERMAN 👑 60",
+            "name": "GERMANY 👑 60",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:32611\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2379,7 +2379,7 @@
         },
         {
             "id": 102,
-            "name": "GERMAN 👑 59",
+            "name": "GERMANY 👑 59",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:31859\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2390,7 +2390,7 @@
         },
         {
             "id": 101,
-            "name": "GERMAN 👑 58",
+            "name": "GERMANY 👑 58",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:30339\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2401,7 +2401,7 @@
         },
         {
             "id": 100,
-            "name": "GERMAN 👑 57",
+            "name": "GERMANY 👑 57",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:31123\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2412,7 +2412,7 @@
         },
         {
             "id": 99,
-            "name": "GERMAN 👑 56",
+            "name": "GERMANY 👑 56",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:30161\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2423,7 +2423,7 @@
         },
         {
             "id": 98,
-            "name": "GERMAN 👑 55",
+            "name": "GERMANY 👑 55",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:32577\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2434,7 +2434,7 @@
         },
         {
             "id": 97,
-            "name": "GERMAN 👑 54",
+            "name": "GERMANY 👑 54",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:32405\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2445,7 +2445,7 @@
         },
         {
             "id": 96,
-            "name": "GERMAN 👑 53",
+            "name": "GERMANY 👑 53",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:31908\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2456,7 +2456,7 @@
         },
         {
             "id": 95,
-            "name": "GERMAN 👑 52",
+            "name": "GERMANY 👑 52",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:30327\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2467,7 +2467,7 @@
         },
         {
             "id": 94,
-            "name": "GERMAN 👑 51",
+            "name": "GERMANY 👑 51",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:30909\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2478,7 +2478,7 @@
         },
         {
             "id": 93,
-            "name": "GERMAN 👑 50",
+            "name": "GERMANY 👑 50",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:31230\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2489,7 +2489,7 @@
         },
         {
             "id": 92,
-            "name": "GERMAN 👑 49",
+            "name": "GERMANY 👑 49",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:31750\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2500,7 +2500,7 @@
         },
         {
             "id": 91,
-            "name": "GERMAN 👑 48",
+            "name": "GERMANY 👑 48",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:31091\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2511,7 +2511,7 @@
         },
         {
             "id": 90,
-            "name": "GERMAN 👑 47",
+            "name": "GERMANY 👑 47",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:31084\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2522,7 +2522,7 @@
         },
         {
             "id": 89,
-            "name": "GERMAN 👑 46",
+            "name": "GERMANY 👑 46",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:30809\/wormy",
             "status": 0,
@@ -2533,7 +2533,7 @@
         },
         {
             "id": 88,
-            "name": "GERMAN 👑 45",
+            "name": "GERMANY 👑 45",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:30135\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2544,7 +2544,7 @@
         },
         {
             "id": 87,
-            "name": "GERMAN 👑 44",
+            "name": "GERMANY 👑 44",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:30725\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2555,7 +2555,7 @@
         },
         {
             "id": 86,
-            "name": "GERMAN 👑 43",
+            "name": "GERMANY 👑 43",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:32584\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2566,7 +2566,7 @@
         },
         {
             "id": 85,
-            "name": "GERMAN 👑 42",
+            "name": "GERMANY 👑 42",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:31695\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2577,7 +2577,7 @@
         },
         {
             "id": 84,
-            "name": "GERMAN 👑 41",
+            "name": "GERMANY 👑 41",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:30208\/wormy",
             "status": 0,
@@ -2588,7 +2588,7 @@
         },
         {
             "id": 83,
-            "name": "GERMAN 👑 40",
+            "name": "GERMANY 👑 40",
             "region": "peru",
             "serverUrl": "wss:\/\/gra-a.wormate.io:31038\/wormy",
             "status": 0,
@@ -2599,7 +2599,7 @@
         },
         {
             "id": 82,
-            "name": "GERMAN 👑 39",
+            "name": "GERMANY 👑 39",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:32030\/wormy",
             "status": 0,
@@ -2610,7 +2610,7 @@
         },
         {
             "id": 81,
-            "name": "GERMAN 👑 38",
+            "name": "GERMANY 👑 38",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:32581\/wormy",
             "status": 0,
@@ -2621,7 +2621,7 @@
         },
         {
             "id": 80,
-            "name": "GERMAN 👑 37",
+            "name": "GERMANY 👑 37",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:31750\/wormy",
             "status": 0,
@@ -2632,7 +2632,7 @@
         },
         {
             "id": 79,
-            "name": "GERMAN 👑 36",
+            "name": "GERMANY 👑 36",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:30140\/wormy",
             "status": 0,
@@ -2643,7 +2643,7 @@
         },
         {
             "id": 78,
-            "name": "GERMAN 👑 35",
+            "name": "GERMANY 👑 35",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:31908\/wormy",
             "status": 0,
@@ -2654,7 +2654,7 @@
         },
         {
             "id": 77,
-            "name": "GERMAN 👑 34",
+            "name": "GERMANY 👑 34",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:30245\/wormy",
             "status": 0,
@@ -2665,7 +2665,7 @@
         },
         {
             "id": 76,
-            "name": "GERMAN 👑 33",
+            "name": "GERMANY 👑 33",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:30161\/wormy",
             "status": 0,
@@ -2676,7 +2676,7 @@
         },
         {
             "id": 75,
-            "name": "GERMAN 👑 32",
+            "name": "GERMANY 👑 32",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:32577\/wormy",
             "status": 0,
@@ -2687,7 +2687,7 @@
         },
         {
             "id": 74,
-            "name": "GERMAN 👑 31",
+            "name": "GERMANY 👑 31",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:31084\/wormy",
             "status": 0,
@@ -2698,7 +2698,7 @@
         },
         {
             "id": 73,
-            "name": "GERMAN 👑 30",
+            "name": "GERMANY 👑 30",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:30909\/wormy",
             "status": 0,
@@ -2709,7 +2709,7 @@
         },
         {
             "id": 72,
-            "name": "GERMAN 👑 29",
+            "name": "GERMANY 👑 29",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:30135\/wormy",
             "status": 0,
@@ -2720,7 +2720,7 @@
         },
         {
             "id": 71,
-            "name": "GERMAN 👑 28",
+            "name": "GERMANY 👑 28",
             "region": "peru",
             "serverUrl": "wss:\/\/gra-a.wormate.io:31819\/wormy",
             "status": 0,
@@ -2731,7 +2731,7 @@
         },
         {
             "id": 70,
-            "name": "GERMAN 👑 27",
+            "name": "GERMANY 👑 27",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:30725\/wormy",
             "status": 0,
@@ -2742,7 +2742,7 @@
         },
         {
             "id": 69,
-            "name": "GERMAN 👑 26",
+            "name": "GERMANY 👑 26",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:31859\/wormy",
             "status": 0,
@@ -2753,7 +2753,7 @@
         },
         {
             "id": 68,
-            "name": "GERMAN 👑 25",
+            "name": "GERMANY 👑 25",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:31533\/wormy",
             "status": 0,
@@ -2764,7 +2764,7 @@
         },
         {
             "id": 67,
-            "name": "GERMAN 👑 24",
+            "name": "GERMANY 👑 24",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:31038\/wormy",
             "status": 0,
@@ -2775,7 +2775,7 @@
         },
         {
             "id": 66,
-            "name": "GERMAN 👑 23",
+            "name": "GERMANY 👑 23",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:32054\/wormy",
             "status": 0,
@@ -2786,7 +2786,7 @@
         },
         {
             "id": 65,
-            "name": "GERMAN 👑 22",
+            "name": "GERMANY 👑 22",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:30171\/wormy",
             "status": 0,
@@ -2797,7 +2797,7 @@
         },
         {
             "id": 64,
-            "name": "GERMAN 👑 21",
+            "name": "GERMANY 👑 21",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:31819\/wormy",
             "status": 0,
@@ -2808,7 +2808,7 @@
         },
         {
             "id": 63,
-            "name": "GERMAN 👑 20",
+            "name": "GERMANY 👑 20",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:31091\/wormy",
             "status": 0,
@@ -2819,7 +2819,7 @@
         },
         {
             "id": 62,
-            "name": "GERMAN 👑 19",
+            "name": "GERMANY 👑 19",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:30702\/wormy",
             "status": 0,
@@ -2830,7 +2830,7 @@
         },
         {
             "id": 61,
-            "name": "GERMAN 👑 18",
+            "name": "GERMANY 👑 18",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:32611\/wormy",
             "status": 0,
@@ -2841,7 +2841,7 @@
         },
         {
             "id": 60,
-            "name": "GERMAN 👑 17",
+            "name": "GERMANY 👑 17",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:30339\/wormy",
             "status": 0,
@@ -2852,7 +2852,7 @@
         },
         {
             "id": 59,
-            "name": "GERMAN 👑 16",
+            "name": "GERMANY 👑 16",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:31230\/wormy",
             "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
@@ -2863,7 +2863,7 @@
         },
         {
             "id": 58,
-            "name": "GERMAN 👑 15",
+            "name": "GERMANY 👑 15",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:31163\/wormy",
             "status": 0,
@@ -2874,7 +2874,7 @@
         },
         {
             "id": 57,
-            "name": "GERMAN 👑 14",
+            "name": "GERMANY 👑 14",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:31123\/wormy",
             "status": 0,
@@ -2885,7 +2885,7 @@
         },
         {
             "id": 56,
-            "name": "GERMAN 👑 13",
+            "name": "GERMANY 👑 13",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:32017\/wormy",
             "status": 1,
@@ -2896,7 +2896,7 @@
         },
         {
             "id": 55,
-            "name": "GERMAN 👑 12",
+            "name": "GERMANY 👑 12",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:31280\/wormy",
             "status": 1,
@@ -2907,7 +2907,7 @@
         },
         {
             "id": 54,
-            "name": "GERMAN 👑 11",
+            "name": "GERMANY 👑 11",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:31050\/wormy",
             "status": 1,
@@ -2918,7 +2918,7 @@
         },
         {
             "id": 53,
-            "name": "GERMAN 👑 10",
+            "name": "GERMANY 👑 10",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:32708\/wormy",
             "status": 1,
@@ -2929,7 +2929,7 @@
         },
         {
             "id": 52,
-            "name": "Moath UP 👑 09",
+            "name": "GERMANY 👑 09",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:32095\/wormy",
             "status": 1,
@@ -2940,7 +2940,7 @@
         },
         {
             "id": 51,
-            "name": "𝑶𝐌🅰𝐑 👑 08",
+            "name": "GERMANY 👑 08",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:32262\/wormy",
             "status": 1,
@@ -2951,7 +2951,7 @@
         },
         {
             "id": 50,
-            "name": "𝐒𝐀i𝐅 👑 07",
+            "name": "GERMANY 👑 07",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:32026\/wormy",
             "status": 1,
@@ -2962,7 +2962,7 @@
         },
         {
             "id": 49,
-            "name": "ELSHRK🅰️WY⚡️UP 👑 06",
+            "name": "GERMANY 👑 06",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:32285\/wormy",
             "status": 1,
@@ -2973,7 +2973,7 @@
         },
         {
             "id": 48,
-            "name": "Tnen 👑 05",
+            "name": "GERMANY 👑 05",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:31965\/wormy",
             "status": 1,
@@ -2984,7 +2984,7 @@
         },
         {
             "id": 47,
-            "name": "DARK 👑 04",
+            "name": "GERMANY 👑 04",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:32064\/wormy",
             "status": 1,
@@ -2995,7 +2995,7 @@
         },
         {
             "id": 46,
-            "name": "#MANO# 👑 03",
+            "name": "GERMANY 👑 03",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:32609\/wormy",
             "status": 1,
@@ -3006,7 +3006,7 @@
         },
         {
             "id": 45,
-            "name": "MALBORO👑 02",
+            "name": "Abo Azzam 👑 02",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:32103\/wormy",
             "status": 1,
@@ -3017,7 +3017,7 @@
         },
         {
             "id": 44,
-            "name": "Musli 👑 01",
+            "name": "Muslim 👑 01",
             "region": "peru",
             "serverUrl": "wss:\/\/fra-c.wormate.io:32053\/wormy",
             "status": 1,
